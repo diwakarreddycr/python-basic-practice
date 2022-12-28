@@ -62,7 +62,7 @@ class practice:
                         break
         prime()
     #To get Christmass tree pattern:
-    def chrismas_patter():
+    def chrismas_pattern():
         n=int(input())
         for i in range(n):
             for j in range(i,n):
@@ -86,7 +86,3 @@ class practice:
             for j in range(n//3):
                 print("*",end=" ")
             print()
-
-
-
-            
